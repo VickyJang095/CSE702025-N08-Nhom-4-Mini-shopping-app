@@ -1,4 +1,3 @@
-plan_md_content = """
 # PROJECT PLAN
 ## Tên dự án: Ứng dụng mua sắm trực tuyến – Shopping App
 ## Nhóm: 4
