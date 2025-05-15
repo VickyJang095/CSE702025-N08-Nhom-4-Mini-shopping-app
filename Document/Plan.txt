@@ -1,0 +1,6 @@
+KẾ HOẠCH DỰ ÁN - Project plan
+Tên dự án: Ứng dụng mua sắm trực tuyến – Shopping App
+Nhóm: CSE702025-Nhóm 4 
+Ngày bắt đầu: 15/05/2025
+Ngày kết thúc dự kiến: 20/06/2025
+1. Mục tiêu dự án 
