@@ -30,7 +30,7 @@
 ---
 
 ## 3. Công nghệ sử dụng
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap (hoặc Vue/React nếu học nâng cao)
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap 
 - **Backend:** Node.js
 - **Database:** MySQL
 - **Thiết kế giao diện:** Figma
@@ -72,7 +72,6 @@
 |--------|-----------|
 | Thành viên không hoàn thành đúng hạn | Chia task nhỏ, họp định kỳ |
 | Lỗi kết nối giữa frontend và backend | Sử dụng Postman kiểm tra API trước |
-| Thiếu kiến thức về Laravel | Tìm hiểu qua tài liệu chính thức, video hướng dẫn |
 
 ---
 
